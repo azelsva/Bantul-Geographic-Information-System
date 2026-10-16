@@ -1,9 +1,9 @@
 # Bantul Geographic Information System
 
 # For more data go to [Release](https://github.com/azelsva/Bantul-GIS/releases)
-1. 01_Satelite_Data
-2. 02_Administration_Data
-3. 03_Cropped
+1. 01_Satelite_Data (https://github.com/azelsva/Bantul-GIS/releases/download/GIS/01_Satellite_Data.zip)
+2. 02_Administration_Data (https://github.com/azelsva/Bantul-GIS/releases/download/GIS/02_Administration_Data.zip)
+3. 03_Cropped (https://github.com/azelsva/Bantul-GIS/releases/download/GIS/03_Cropped.zip)
 4. 04_Index
 5. 05_Classification
 6. Web_GIS
