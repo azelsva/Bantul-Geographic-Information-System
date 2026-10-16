@@ -1,0 +1,9 @@
+*.zip
+*.SAFE/
+*.jp2
+*.tif
+*.tiff
+.Rhistory
+.RData
+.Renviron
+rsconnect/
