@@ -1,15 +1,15 @@
 # Bantul Geographic Information System
 
 # For more data go to [Release](https://github.com/azelsva/Bantul-GIS/releases)
-1. 01_Satelite_Data 
-2. 02_Administration_Data 
-3. 03_Cropped 
-4. 04_Index 
-5. 05_Classification 
-6. 06_Web_GIS 
-7. 07_Map 
+1. [01_Satelite_Data](https://github.com/azelsva/Bantul-GIS/releases/download/GIS/01_Satellite_Data.zip)
+2. [02_Administration_Data](https://github.com/azelsva/Bantul-GIS/releases/download/GIS/02_Administration_Data.zip)
+3. [03_Cropped](https://github.com/azelsva/Bantul-GIS/releases/download/GIS/03_Cropped.zip)
+4. [04_Index](https://github.com/azelsva/Bantul-GIS/releases/download/GIS/04_Index.zip)
+5. [05_Classification](https://github.com/azelsva/Bantul-GIS/releases/download/GIS/05_Classification.zip)
+6. [06_Web_GIS](https://github.com/azelsva/Bantul-GIS/releases/download/GIS/06_WebGIS.zip)
+7. [07_Map](https://github.com/azelsva/Bantul-GIS/releases/download/GIS/07_Map.zip)
    
-# Official website : https://azelsva.shinyapps.io/tutupan-lahan-bantul/
+# Official website : [https://azelsva.shinyapps.io/tutupan-lahan-bantul/](https://azelsva.shinyapps.io/bantul-geographic-information-system/)
 
 # User Interface Bantul Geographic Information System
 <img width="1899" height="957" alt="Screenshot 2026-10-16 182605" src="https://github.com/user-attachments/assets/86e13496-9030-482f-a561-1f3c812be262" />
