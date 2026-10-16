@@ -1,4 +1,6 @@
-# Bantul-GIS
+# Bantul Geographic Information System
+
+For more data go to [Release](https://github.com/azelsva/Bantul-GIS/releases)
 <img width="1899" height="957" alt="Screenshot 2026-10-16 182605" src="https://github.com/user-attachments/assets/86e13496-9030-482f-a561-1f3c812be262" />
 <img width="1888" height="950" alt="Screenshot 2026-10-16 182453" src="https://github.com/user-attachments/assets/f3257ffe-fc40-47e9-a628-5dc60af4fab4" />
 <img width="1907" height="944" alt="Screenshot 2026-10-16 182654" src="https://github.com/user-attachments/assets/ff85fef9-8d66-44da-b44e-d09aca19c5c2" />
