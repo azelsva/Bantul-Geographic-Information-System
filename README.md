@@ -4,9 +4,9 @@
 1. 01_Satelite_Data (https://github.com/azelsva/Bantul-GIS/releases/download/GIS/01_Satellite_Data.zip)
 2. 02_Administration_Data (https://github.com/azelsva/Bantul-GIS/releases/download/GIS/02_Administration_Data.zip)
 3. 03_Cropped (https://github.com/azelsva/Bantul-GIS/releases/download/GIS/03_Cropped.zip)
-4. 04_Index
-5. 05_Classification
-6. Web_GIS
+4. 04_Index (https://github.com/azelsva/Bantul-GIS/releases/download/GIS/04_Index.zip)
+5. 05_Classification (https://github.com/azelsva/Bantul-GIS/releases/download/GIS/05_Classification.zip)
+6. 06_Web_GIS (https://github.com/azelsva/Bantul-GIS/releases/download/GIS/06_WebGIS.zip)
    
 # Official website : https://azelsva.shinyapps.io/tutupan-lahan-bantul/
 
