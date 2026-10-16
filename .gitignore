@@ -7,3 +7,4 @@
 .RData
 .Renviron
 rsconnect/
+deploy.R
