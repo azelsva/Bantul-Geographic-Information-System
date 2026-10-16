@@ -1,7 +1,13 @@
 # Bantul Geographic Information System
 
 # For more data go to [Release](https://github.com/azelsva/Bantul-GIS/releases)
-
+1. 01_Satelite_Data
+2. 02_Administration_Data
+3. 03_Cropped
+4. 04_Index
+5. 05_Classification
+6. Web_GIS
+   
 # Official website : https://azelsva.shinyapps.io/tutupan-lahan-bantul/
 
 # User Interface Bantul Geographic Information System
