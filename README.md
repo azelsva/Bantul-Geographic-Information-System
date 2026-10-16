@@ -7,6 +7,7 @@
 4. 04_Index (https://github.com/azelsva/Bantul-GIS/releases/download/GIS/04_Index.zip)
 5. 05_Classification (https://github.com/azelsva/Bantul-GIS/releases/download/GIS/05_Classification.zip)
 6. 06_Web_GIS (https://github.com/azelsva/Bantul-GIS/releases/download/GIS/06_WebGIS.zip)
+7. 07_Map (https://github.com/azelsva/Bantul-GIS/releases/download/GIS/07_Map.zip)
    
 # Official website : https://azelsva.shinyapps.io/tutupan-lahan-bantul/
 
