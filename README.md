@@ -9,7 +9,7 @@
 6. [06_Web_GIS](https://github.com/azelsva/Bantul-GIS/releases/download/GIS/06_WebGIS.zip)
 7. [07_Map](https://github.com/azelsva/Bantul-GIS/releases/download/GIS/07_Map.zip)
    
-# Official website : [https://azelsva.shinyapps.io/tutupan-lahan-bantul/](https://azelsva.shinyapps.io/bantul-geographic-information-system/)
+# Official website : [https://Bantul_Geographic_Information_System](https://azelsva.shinyapps.io/bantul-geographic-information-system/)
 
 # User Interface Bantul Geographic Information System
 <img width="1899" height="957" alt="Screenshot 2026-10-16 182605" src="https://github.com/user-attachments/assets/86e13496-9030-482f-a561-1f3c812be262" />
