@@ -1,0 +1,15 @@
+
+*.SAFE/
+*.jp2
+*.tif
+*.tiff
+*.zip
+*.gpkg
+*.rds
+OUTPUT/
+.Rhistory
+.RData
+.Rproj.user/
+rsconnect/
+.env
+.Renviron
