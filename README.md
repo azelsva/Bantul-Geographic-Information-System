@@ -18,7 +18,7 @@
 <img width="1900" height="958" alt="Screenshot 2026-10-16 182800" src="https://github.com/user-attachments/assets/9d720ef2-7a31-4a94-80f9-cd626dfa86a0" />
 <img width="1904" height="966" alt="Screenshot 2026-10-16 182824" src="https://github.com/user-attachments/assets/9d4252e8-e99a-4c38-a6bc-591c0366da4b" />
 
-# Hasil Analisis
+# Hasil Analisis Spektral Citra Sentinel-1
 <img width="3307" height="2339" alt="NDVI" src="https://github.com/user-attachments/assets/d4788999-670b-43c1-82bf-3a1d30c6f3ad" />
 <img width="3307" height="2339" alt="NDBI" src="https://github.com/user-attachments/assets/95ed5235-3d1d-4918-8a07-251d46f3a42f" />
 <img width="3307" height="2339" alt="NDWI" src="https://github.com/user-attachments/assets/50dab372-f7af-45f7-8a7d-b69085b2e6aa" />
