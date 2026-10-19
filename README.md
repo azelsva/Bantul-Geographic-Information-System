@@ -51,10 +51,10 @@
 |<img width="3307" height="2339" alt="TUTUPAN LAHAN" src="https://github.com/user-attachments/assets/b35d3a1b-3db2-4af7-a9e9-2dd91c44219a" />|
 
 ## User Interface Bantul Geographic Information System
-## A. MODE DESKOP
+## A. MODE DESKTOP
 <img width="1899" height="957" alt="Screenshot 2026-10-16 182605" src="https://github.com/user-attachments/assets/86e13496-9030-482f-a561-1f3c812be262" />
 
-## A. MODE PONSEL
+## A. MODE MOBILE
 <img width="739" height="1600" alt="WhatsApp Image 2026-10-19 at 19 32 20" src="https://github.com/user-attachments/assets/732e9c14-ea7a-4d5f-bc9d-d8b04833ce8f" />
 
 # FITUR
