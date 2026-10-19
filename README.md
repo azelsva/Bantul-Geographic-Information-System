@@ -22,7 +22,9 @@
 | **NDVI** | **NDBI** |
 |---|---|
 |<img width="3307" height="2339" alt="NDVI" src="https://github.com/user-attachments/assets/d4788999-670b-43c1-82bf-3a1d30c6f3ad" />|<img width="3307" height="2339" alt="NDBI" src="https://github.com/user-attachments/assets/95ed5235-3d1d-4918-8a07-251d46f3a42f" />|
+
 | **NDWI** | **NDCI** |
+|---|---|
 |<img width="3307" height="2339" alt="NDWI" src="https://github.com/user-attachments/assets/50dab372-f7af-45f7-8a7d-b69085b2e6aa" />|<img width="3307" height="2339" alt="NDCI" src="https://github.com/user-attachments/assets/d208d84f-751c-49c0-91c1-304bc150cd4c" />|
 
 | **LAND COVER** |
