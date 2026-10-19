@@ -33,13 +33,45 @@
 
 ## User Interface Bantul Geographic Information System
 <img width="1899" height="957" alt="Screenshot 2026-10-16 182605" src="https://github.com/user-attachments/assets/86e13496-9030-482f-a561-1f3c812be262" />
-<img width="1888" height="950" alt="Screenshot 2026-10-16 182453" src="https://github.com/user-attachments/assets/f3257ffe-fc40-47e9-a628-5dc60af4fab4" />
+
+# FITUR
+
+## 01. BASEMAP
+| **OSM** | **ESRI WORLD IMAGERY** | **GOOGLE SATELITE** |
+|---|---|---|
+|<img width="782" height="568" alt="Screenshot 2026-10-19 141941" src="https://github.com/user-attachments/assets/9c45e93a-d42a-4d94-9acf-030f3bba1e61" />|<img width="765" height="575" alt="image" src="https://github.com/user-attachments/assets/bcd38478-dfd3-4d0d-8573-40f8600eac7e" />|<img width="771" height="573" alt="image" src="https://github.com/user-attachments/assets/74416846-9558-4059-8207-eca50896fa21" />|
+
+## 02. KLIK KECAMATAN
+<img width="677" height="537" alt="image" src="https://github.com/user-attachments/assets/5ade0815-f8f2-48de-adb3-4b770c912fe1" />
+
+## 03. INFORMASI TITIK
+<img width="807" height="501" alt="image" src="https://github.com/user-attachments/assets/b9a9fc56-0cca-4367-b490-93a155c475d6" />
+
+## 04. ZOOM
 <img width="1907" height="944" alt="Screenshot 2026-10-16 182654" src="https://github.com/user-attachments/assets/ff85fef9-8d66-44da-b44e-d09aca19c5c2" />
+
+## 05. ALAT PENDUKUNG
+<img width="436" height="406" alt="image" src="https://github.com/user-attachments/assets/1e4cada3-031d-4a1b-8aea-aa2ce0122ad1" />
+
+## 06. TAB ZONAL STATISTIC
 <img width="1900" height="958" alt="Screenshot 2026-10-16 182800" src="https://github.com/user-attachments/assets/9d720ef2-7a31-4a94-80f9-cd626dfa86a0" />
+
+## 07. LUAS WILAYAH ANALISIS
 <img width="1904" height="966" alt="Screenshot 2026-10-16 182824" src="https://github.com/user-attachments/assets/9d4252e8-e99a-4c38-a6bc-591c0366da4b" />
 
+## 08. TAB TRESHOD & METODE
+<img width="1903" height="953" alt="image" src="https://github.com/user-attachments/assets/f2794364-2551-4af2-85fa-bb9a9d59c77d" />
 
-## 03. Penulis
+## 09. TAB CETAK PETA
+<img width="1903" height="915" alt="image" src="https://github.com/user-attachments/assets/26b1ac73-27b0-46f6-b62a-194355810cef" />
+
+## 10. TAB UNDUH DATA
+<img width="1897" height="913" alt="image" src="https://github.com/user-attachments/assets/5c710dc5-6944-4a9f-9ee5-417d74e36dc8" />
+
+## 11. TENTANG
+<img width="1894" height="898" alt="image" src="https://github.com/user-attachments/assets/028f7a65-1d22-4ab9-b7a6-e39428ee26a8" />
+
+## Penulis
 
 | **Nama** | **NRP** |
 |---|---|
