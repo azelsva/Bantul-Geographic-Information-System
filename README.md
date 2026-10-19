@@ -1,6 +1,15 @@
-# Bantul Geographic Information System
+Bantul Geographic Information System
 
-# For more data go to [Release](https://github.com/azelsva/Bantul-GIS/releases)
+WebGIS Analisis Indeks Spektral dan Klasifikasi Tutupan Lahan Kabupaten Bantul
+
+
+
+
+
+
+[🌐 Buka WebGIS](https://azelsva.shinyapps.io/bantul-geographic-information-system/) · [📦 Unduh Data](https://github.com/azelsva/Bantul-GIS/releases)
+
+# For more data go to [Release]
 1. [01_Satelite_Data](https://github.com/azelsva/Bantul-GIS/releases/download/GIS/01_Satellite_Data.zip)
 2. [02_Administration_Data](https://github.com/azelsva/Bantul-GIS/releases/download/GIS/02_Administration_Data.zip)
 3. [03_Cropped](https://github.com/azelsva/Bantul-GIS/releases/download/GIS/03_Cropped.zip)
@@ -9,7 +18,7 @@
 6. [06_Web_GIS](https://github.com/azelsva/Bantul-GIS/releases/download/GIS/06_WebGIS.zip)
 7. [07_Map](https://github.com/azelsva/Bantul-GIS/releases/download/GIS/07_Map.zip)
    
-# Official website : [https://Bantul_Geographic_Information_System](https://azelsva.shinyapps.io/bantul-geographic-information-system/)
+# Official website : [https://Bantul_Geographic_Information_System]
 
 # User Interface Bantul Geographic Information System
 <img width="1899" height="957" alt="Screenshot 2026-10-16 182605" src="https://github.com/user-attachments/assets/86e13496-9030-482f-a561-1f3c812be262" />
@@ -24,3 +33,17 @@
 <img width="3307" height="2339" alt="NDWI" src="https://github.com/user-attachments/assets/50dab372-f7af-45f7-8a7d-b69085b2e6aa" />
 <img width="3307" height="2339" alt="NDCI" src="https://github.com/user-attachments/assets/d208d84f-751c-49c0-91c1-304bc150cd4c" />
 <img width="3307" height="2339" alt="TUTUPAN LAHAN" src="https://github.com/user-attachments/assets/b35d3a1b-3db2-4af7-a9e9-2dd91c44219a" />
+
+15. Penulis
+
+Nama
+
+NRP
+
+Nisrin Finira Safina
+
+5016241051
+
+Avisa Azalia
+
+5016241098
