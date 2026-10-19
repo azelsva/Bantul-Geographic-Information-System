@@ -1,6 +1,6 @@
-# Bantul Geographic Information System
 
-<h1 align="center">WebGIS Tutupan Lahan Kabupaten Bantul</h1>
+
+<h1 align="center">Bantul Land Cover Information System</h1>
 
 <p align="center">
   Analisis indeks spektral (NDVI, NDBI, NDWI, NDCI) dan klasifikasi
