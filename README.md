@@ -1,8 +1,27 @@
 # Bantul Geographic Information System
 
-**WebGIS Analisis Indeks Spektral dan Klasifikasi Tutupan Lahan Kabupaten Bantul**
+<h1 align="center">WebGIS Tutupan Lahan Kabupaten Bantul</h1>
 
-[🌐 Buka WebGIS](https://azelsva.shinyapps.io/bantul-geographic-information-system/) · [📦 Unduh Data](https://github.com/azelsva/Bantul-GIS/releases)
+<p align="center">
+  Analisis indeks spektral (NDVI, NDBI, NDWI, NDCI) dan klasifikasi
+  tutupan lahan dari citra Sentinel-2 Level-2A, disajikan dalam
+  aplikasi WebGIS interaktif berbasis R Shiny dan Leaflet.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/R-4.x-3776AB?logo=r&logoColor=white" alt="R 4.x">
+  <img src="https://img.shields.io/badge/Shiny-dashboard-228B22" alt="Shiny Dashboard">
+  <img src="https://img.shields.io/badge/Leaflet-interaktif-32CD32?logo=leaflet&logoColor=white" alt="Leaflet">
+  <img src="https://img.shields.io/badge/Sentinel--2-L2A-1689C7" alt="Sentinel-2 L2A">
+  <img src="https://img.shields.io/badge/License-MIT-yellow" alt="MIT License">
+</p>
+
+<p align="center">
+🌐Buka WebGIS : https://azelsva.shinyapps.io/bantul-geographic-information-system/
+</p>
+<p align="center">
+📦 Unduh Data : https://github.com/azelsva/Bantul-GIS/releases
+</p>
 
 ## 01. Data
 
